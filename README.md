@@ -4,5 +4,5 @@ A discord bot that returns a defintion of the word entered by the user as a comm
 ## Usage
 Default command prefix: ```!```
 
-# #API used
+## API used
 [Free Dictionary API](https://dictionaryapi.dev/)
